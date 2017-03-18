@@ -22,6 +22,6 @@ Finished executable prototype
 
 1) Download the "Finished Prototype" Folder
 2) Extract Zip file
-3) In the repository, under "Finished Prototype/VRGalacticMapG2_Data" download all ".assets.resS" files
-4) Replace all ".assets.resS" files in previously extracted zip folder with the newly downloaded ".assets.resS" files
+3) In the repository, under "Finished Prototype/VRGalacticMapG2_Data" download "sharedassets0.assets.resS" separately
+4) Replace "sharedassets0.assets.resS" file in previously extracted zip folder with the newly downloaded "sharedassets0.assets.resS" file
 5) Click "VRGalacticMapG2.exe" to run prototype
