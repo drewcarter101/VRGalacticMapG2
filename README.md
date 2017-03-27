@@ -29,9 +29,13 @@ Finished executable prototype
 # Video of Prototype in action
 The video can be viewed at: https://youtu.be/2_-D-vTPw_s
 
-#Members:
+# Members:
 Callum Thomas
+
 Sharon Umute
+
 Abhishek Chatrath
+
 Corrado Backie
+
 Chris Hampu
